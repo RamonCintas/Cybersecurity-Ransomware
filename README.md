@@ -1,8 +1,12 @@
-# Desafio de projeto da DIO
-# cibersecurity-desafio-ransomware
+# Cybersecurity-Ransomware
 
 ### DESCRIÇÃO
-Neste desafio de projeto, tem que implementar um Ransomware para criptografar arquivos utilizando a linguagem Python.
+Neste projeto, foi implementado um Ransomware para criptografar e descriptografar arquivos utilizando:
+
+- linguagens: Python, Shell script.
+- Sistema operacional: Windows.
+- Máquina virtual: Kali Linux.
+- Interpretador de comando: Bash.
 
 ### Resutados
 
@@ -18,4 +22,6 @@ Arquivo descriptografado
 Comandos digitados
 ![Alt text](./imagem4.png "Optional title")
 
-- Observação: Teste muito bem sucedido
+- Observação: 
+Criptografar: OK
+Descriptografar: OK
