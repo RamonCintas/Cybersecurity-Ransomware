@@ -1,0 +1,2 @@
+Testando o programa de encriptografar e descriptografar arquivos.
+Lista de compras: café, leite, arroz, feijão.
