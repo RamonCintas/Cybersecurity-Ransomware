@@ -8,20 +8,24 @@ Neste projeto, foi implementado um Ransomware para criptografar e descriptografa
 - Máquina virtual: Kali Linux.
 - Interpretador de comando: Bash.
 
-### Resutados
+# Resutados
 
-Arquivo original
+### Arquivo original
+
 ![Alt text](./imagem1.png "Optional title")
 
-Arquivo encriptografado
+### Arquivo encriptografado
+
 ![Alt text](./imagem2.png "Optional title")
 
-Arquivo descriptografado
+### Arquivo descriptografado
+
 ![Alt text](./imagem3.png "Optional title")
 
-Comandos digitados
+### Comandos digitados
+
 ![Alt text](./imagem4.png "Optional title")
 
-- Observação: 
-Criptografar: OK
-Descriptografar: OK
+# Observação: 
+- Criptografar: OK
+- Descriptografar: OK
