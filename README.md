@@ -1,7 +1,7 @@
 # Cybersecurity-Ransomware
 
 ### DESCRIÇÃO
-Neste projeto, foi implementado um Ransomware para criptografar e descriptografar arquivos utilizando:
+Neste desafio de projeto da (DIO) Digital Innovation One na formação cybersecurity specialist, foi implementado um Ransomware para criptografar e descriptografar arquivos utilizando:
 
 - linguagens: Python, Shell script.
 - Sistema operacional: Windows.
