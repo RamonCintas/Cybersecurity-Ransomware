@@ -1,7 +1,7 @@
 <div align="center">
   <b><h1>Cybersecurity-Ransomware</h1></b>
   
-![Alt text](./Ramsonware.jpg "Optional title")
+![Alt text](./Ransomware.jpg "Optional title")
 </div>
 
 ##
