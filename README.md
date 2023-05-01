@@ -71,7 +71,7 @@ Repositório com um programa desenvolvido para praticar a linguagem de programa�
   <b><h1>💻 Executar</h1></b>
 </div>
 
-Para executar esse repositório e fazer uso dos códigos, você precisa clonar ou [`baixar`](https://github.com/RamonCintas/Cybersecurity-Phishing/archive/refs/heads/main.zip) este repositório e ter algum meio que seja compativel com a linguagem de programação python.
+Para executar esse repositório e fazer uso dos códigos, você precisa clonar ou [`baixar`](https://github.com/RamonCintas/Cybersecurity-Ransomware/archive/refs/heads/main.zip) este repositório e ter algum meio que seja compativel com a linguagem de programação python.
 
 ##
 
