@@ -68,10 +68,10 @@ Repositório com um programa desenvolvido para praticar a linguagem de programa�
 ##
 
 <div align="eight">
-  <b><h1>💻 Executar</h1></b>
+  <b><h1>💻 Download</h1></b>
 </div>
 
-Para executar esse repositório e fazer uso dos códigos, você precisa clonar ou [`baixar`](https://github.com/RamonCintas/Cybersecurity-Ransomware/archive/refs/heads/main.zip) este repositório e ter algum meio que seja compativel com a linguagem de programação python.
+Para fazer uso desse repositório e dos códigos, você pode cloná-lo em seu GitHub com a opção de fork ou clique em [`baixar`](https://github.com/RamonCintas/Cybersecurity-Ransomware/archive/refs/heads/main.zip) esse repositório.
 
 ##
 
